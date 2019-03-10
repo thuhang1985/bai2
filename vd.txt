@@ -18,5 +18,9 @@ int main(){
 >>>>>>> parent of 468216c... Them ham main()
 =======
 return 0;
+<<<<<<< HEAD
+}
+>>>>>>> parent of 0f8b9c5... Revert "Bo sung thu vien"
+=======
 }
 >>>>>>> parent of 0f8b9c5... Revert "Bo sung thu vien"
