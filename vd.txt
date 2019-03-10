@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <stdio.h>
 #include <stdlib.h>
 #define CAPPHAT(p) p=(int*)malloc(n*sizeof(int));
@@ -12,3 +13,6 @@ int main(){
 		scanf("%d",p+i);
 	}
 	//xuat mang
+=======
+#include <stdio.h>
+>>>>>>> parent of 468216c... Them ham main()
