@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 #include <stdio.h>
 int main(){
 return 0;
 }
+=======
+>>>>>>> parent of 36edb7e... Bo sung thu vien
