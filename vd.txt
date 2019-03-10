@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	int n,*p,i,tong=0;
 	printf("Nhap so phan tu mang ="); scanf("%d",&n);
 	//p=(int*)malloc(n*sizeof(int));
@@ -21,5 +22,7 @@ return 0;
 =======
 }
 >>>>>>> parent of 0f8b9c5... Revert "Bo sung thu vien"
+=======
+>>>>>>> parent of 36edb7e... Bo sung thu vien
 =======
 >>>>>>> parent of 36edb7e... Bo sung thu vien
