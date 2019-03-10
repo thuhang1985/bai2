@@ -1,8 +1,8 @@
-<<<<<<< HEAD
 #include <stdio.h>
 #include <stdlib.h>
 #define CAPPHAT(p) p=(int*)malloc(n*sizeof(int));
 int main(){
+<<<<<<< HEAD
 	int n,*p,i,tong=0;
 	printf("Nhap so phan tu mang ="); scanf("%d",&n);
 	//p=(int*)malloc(n*sizeof(int));
@@ -16,3 +16,7 @@ int main(){
 =======
 #include <stdio.h>
 >>>>>>> parent of 468216c... Them ham main()
+=======
+return 0;
+}
+>>>>>>> parent of 0f8b9c5... Revert "Bo sung thu vien"
